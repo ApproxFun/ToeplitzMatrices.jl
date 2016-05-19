@@ -1,4 +1,5 @@
-__precompile__()
+__precompile__(true)
+
 module ToeplitzMatrices
 
 import StatsBase
